@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Loc</h1>
 <h3 align="center">A dev from Vietnam</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
+<h3 align="left">email: vohoangloc2002jan@gmail.com </h3>
+<h3 align="left">phone: 0812943018 </h3>
 <p align="left">
 </p>
 
